@@ -3,7 +3,8 @@
 <p>Selamat datang di repositori ini! 🎉 Proyek ini adalah bagian dari perjalanan belajar saya mengikuti course dari channel YouTube Web Programming UNPAS, yang berfokus pada JavaScript, salah satu bahasa pemrograman paling populer untuk pengembangan web.</p><br><br>
 <p>Dalam proyek ini, saya mempraktikkan berbagai konsep dasar JavaScript, mulai dari:</p><br>
 <ul>
-  <li><strong>Variabel dan Tipe Data:</strong> </li>
+  <li><strong>Nilai dan Tipe Data:</strong> </li>
+  <li><strong>Variabel:</strong> </li>
   <li><strong>Operator</strong>: </li>
   <li><strong>Pengkondisian dan Pengulangan:</strong> </li>
   <li><strong>Function:</strong> </li>
