@@ -10,6 +10,7 @@
   <li><strong>Function:</strong> </li>
   <li><strong>Array:</strong> </li>
   <li><strong>Object:</strong> </li>
+  <li>...</li>
 </ul>
 <p>Tujuan dari proyek ini adalah untuk memperkuat pemahaman saya tentang JavaScript dan mengaplikasikan konsep-konsep tersebut melalui latihan-latihan praktis. Setiap latihan tidak hanya memberikan tantangan teknis, tetapi juga memberikan wawasan tentang bagaimana JavaScript dapat diterapkan dalam pengembangan web modern.</p><br>
 <P>Bagi siapa pun yang tertarik untuk belajar atau memperdalam pemahaman tentang JavaScript, repo ini mungkin bisa menjadi sumber inspirasi dan referensi. Jangan ragu untuk mengintip dan memberikan masukan! 😄</P>
